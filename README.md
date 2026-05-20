@@ -105,6 +105,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [3D Secure / SCA](https://stripe.com/docs/strong-customer-authentication) – Authentication requirements for European payment regulations.
 - [Stripe Disputes](https://stripe.com/docs/disputes) – Tools for responding to chargebacks and evidence submission.
 - [PCI Compliance Guide](https://stripe.com/guides/pci-compliance) – Stripe-managed compliance model simplifying card security obligations.
+- [vatnode](https://vatnode.dev) – EU VAT number validation API returning VIES consultation numbers for audit-ready reverse-charge invoicing alongside Stripe Tax.
 
 ## CLI & Developer Tools
 
