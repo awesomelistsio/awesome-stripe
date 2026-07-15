@@ -115,6 +115,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Open-Source Tools & Libraries
 
+- [Netkiln](https://netkiln.com) — Paste a Stripe/PayPal payouts CSV; get a public client-ready revenue-health page (free draft; $19 clean unlock).
 - [Cashier for Laravel](https://laravel.com/docs/cashier) – Laravel package providing subscription and billing features powered by Stripe.
 - [DJ-Stripe](https://github.com/dj-stripe/dj-stripe) – Django app mirroring Stripe objects locally for subscription and billing logic.
 - [Cartalyst Stripe](https://github.com/cartalyst/stripe) – PHP wrapper offering simplified Stripe API interactions.
