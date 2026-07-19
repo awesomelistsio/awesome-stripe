@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [DJ-Stripe](https://github.com/dj-stripe/dj-stripe) – Django app mirroring Stripe objects locally for subscription and billing logic.
 - [Cartalyst Stripe](https://github.com/cartalyst/stripe) – PHP wrapper offering simplified Stripe API interactions.
 - [Flask-Stripe](https://github.com/unt-lfc/flask-stripe) – Lightweight Flask extension for integrating Stripe payments.
+- [HonorBox](https://github.com/Honorboxx/honorbox) – MIT-licensed engine for selling digital products with Stripe Payment Links and GitHub-based delivery, no server required.
 - [nestjs-stripe](https://github.com/anchan828/nestjs-stripe) – NestJS module for building backend services with Stripe.
 
 ## UI Components
