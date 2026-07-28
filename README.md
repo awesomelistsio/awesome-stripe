@@ -112,6 +112,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Stripe.stripe-vscode) – VSCode plugin for testing payments, logs, and webhooks.
 - [Stripe Postman Collection](https://github.com/stripe/postman) – Collection for exploring and testing the Stripe API using Postman.
 - [Stripe Terraform Provider](https://registry.terraform.io/providers/stripe/stripe/latest) – Infrastructure-as-code provider for managing Stripe resources declaratively.
+- [Stripe Signature Debugger](https://belalmou.github.io/digital-download-security/stripe-signature-debugger.html) – Browser-based tool to diagnose why webhook signature verification fails, and to build a signed curl command from a realistic event payload.
 
 ## Open-Source Tools & Libraries
 
