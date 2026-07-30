@@ -104,6 +104,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe Radar](https://stripe.com/radar) – Machine-learning fraud prevention system integrated with Stripe.
 - [3D Secure / SCA](https://stripe.com/docs/strong-customer-authentication) – Authentication requirements for European payment regulations.
 - [Stripe Disputes](https://stripe.com/docs/disputes) – Tools for responding to chargebacks and evidence submission.
+- [MerchantReady](https://merchantready.org/) – Independent readiness reports for merchants preparing website policies, KYC materials, and dispute evidence before Stripe reviews.
 - [PCI Compliance Guide](https://stripe.com/guides/pci-compliance) – Stripe-managed compliance model simplifying card security obligations.
 
 ## CLI & Developer Tools
