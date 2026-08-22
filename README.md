@@ -105,6 +105,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [3D Secure / SCA](https://stripe.com/docs/strong-customer-authentication) – Authentication requirements for European payment regulations.
 - [Stripe Disputes](https://stripe.com/docs/disputes) – Tools for responding to chargebacks and evidence submission.
 - [PCI Compliance Guide](https://stripe.com/guides/pci-compliance) – Stripe-managed compliance model simplifying card security obligations.
+- [RefundRadar](https://guerindylan555-boop.github.io/refundradar/) – Free web tool that generates a Stripe `counter_evidence` packet (rebuttal letter + reason-code evidence checklist) for SaaS merchants responding to disputes.
 
 ## CLI & Developer Tools
 
