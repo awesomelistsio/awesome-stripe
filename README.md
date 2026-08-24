@@ -112,6 +112,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Stripe.stripe-vscode) – VSCode plugin for testing payments, logs, and webhooks.
 - [Stripe Postman Collection](https://github.com/stripe/postman) – Collection for exploring and testing the Stripe API using Postman.
 - [Stripe Terraform Provider](https://registry.terraform.io/providers/stripe/stripe/latest) – Infrastructure-as-code provider for managing Stripe resources declaratively.
+- [Stripe Test Cards](https://checkoutpage.com/tools/stripe-test-cards) – Searchable directory of Stripe test card numbers with one-click copy, filterable by declines, 3D Secure, disputes, and international cards.
 
 ## Open-Source Tools & Libraries
 
